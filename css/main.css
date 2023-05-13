@@ -122,10 +122,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
+  color: #0a0a0a;
+  padding: 12px;
+  border: #222 1px solid;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: 1.2em;
+  background-color: #f5e7e7;
   height: 300px;
 }
 
